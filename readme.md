@@ -35,7 +35,7 @@ $paypal->express_checkout(array(
  ), 'process');
  ```
 
- ## Direct Payments Usage
+## Direct Payments Usage
  (untested due to paypal not having website payments pro test site easily available)
 
  ```php
