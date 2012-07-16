@@ -2,7 +2,7 @@ PHP PayPal API Class
 ====================
 Class for handling Express Checkout and Direct Payment Using PayPal's NVP API.
 
-License: MIT Copyright (c) 2011 Kelly Lauren Summer Becker
+License: MIT Copyright (c) 2011 Kelly Lauren Summer Becker<br />
 Version: 1.1
 
 Country and State Codes are listing in arrays at the bottom of the Class these are in the proper format for PayPal already.
