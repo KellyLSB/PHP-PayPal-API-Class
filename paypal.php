@@ -57,7 +57,7 @@
  *       'COUNTRY' => 'Country'
  *       'ITEMS' => array(
  *                     '1' => array(
- *                               'NME' => 'Item Name',
+ *                               'NAME' => 'Item Name',
  *                               'QTY' => 'Item Quantity',
  *                               'AMT' => 'Item Price',
  *                            )
